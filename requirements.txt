@@ -1,0 +1,5 @@
+streamlit>=1.35
+requests>=2.31
+tldextract>=5.1
+Pillow>=10.0
+pytest>=8.0
